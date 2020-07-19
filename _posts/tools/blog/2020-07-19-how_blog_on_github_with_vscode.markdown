@@ -101,6 +101,9 @@ Use vscode as maskdown editor with git and jekyll tool.
 - ImagePaste(Generate image on editing doc folder from paste)
 - Jekyll Run(Run jekyll)
 
+1. Image Paste
+![](_posts/tools/blog/2020-07-20-07-25-13.png)
+
 ## More
 
 ### How to choose a theme your like

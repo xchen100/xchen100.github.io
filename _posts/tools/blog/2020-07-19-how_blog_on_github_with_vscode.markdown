@@ -102,7 +102,7 @@ Use vscode as maskdown editor with git and jekyll tool.
 - Jekyll Run(Run jekyll)
 
 1. Image Paste
-![](_posts/tools/blog/2020-07-20-07-25-13.png)
+![Paste Image Setting](2020-07-20-07-25-13.png)
 
 ## More
 

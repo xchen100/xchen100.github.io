@@ -105,6 +105,7 @@ Use vscode as maskdown editor with git and jekyll tool.
 
 ![1]({{ site.url }}/assets/2020-07-20-07-54-27.png)
 ![2](/assets/2020-07-20-07-54-27.png)
+![3](/assets/img/2020-07-20-07-54-27.png)
 ## More
 
 ### How to choose a theme your like

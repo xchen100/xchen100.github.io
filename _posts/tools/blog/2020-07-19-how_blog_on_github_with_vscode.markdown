@@ -107,6 +107,10 @@ Use vscode as maskdown editor with git and jekyll tool.
 ![2](/assets/2020-07-20-07-54-27.png)
 ![3](/assets/img/2020-07-20-07-54-27.png)
 ![4](/2020-07-20-07-54-27.png)
+![5](/_posts/tools/blog/img/2020-07-20-07-54-27.png)
+
+if image path contains `_`, ruby will trigger a `ERROR: invalid byte sequence in UTF-8`. Avoiding contains `_` in image path if you use github to store you blog images.
+
 ## More
 
 ### How to choose a theme your like
